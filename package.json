@@ -20,7 +20,7 @@
     "eslint-config-airbnb-base": "^14.1.0",
     "eslint-plugin-import": "^2.20.2",
     "express": "^4.17.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.2",
     "save": "^2.4.0"
